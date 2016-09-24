@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Beijing Travel Guide</string>
+
+    <string name="category_historical_site">Historical Site</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_events">Events</string>
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="tiananmen_square">Tian\'anmen Square</string>
+    <string name="tiananmen_square_description">Hosted momentous events like the declaration of the People\'s Republic of China</string>
+    <string name="tiananmen_square_hours">Hours:24 Hours</string>
+
+    <string name="xiangshan_park">Xiangshan Park</string>
+    <string name="xiangshan_park_description">Especially famous for the maple leaves</string>
+    <string name="xiangshan_park_hours">Hours:6:00am-7:00pm</string>
+
+    <string name="bird_nest">Bird\'s Nest</string>
+    <string name="bird_nest_description">China\'s National Stadium, \"one of the key engineering marvels in the world today\"</string>
+    <string name="bird_nest_hours">Hours:9:00am-7:00pm</string>
+
+    <string name="water_cube">Water Cube</string>
+    <string name="water_cube_description">Where American swimmer Michael Phelps got eight medals at the 2008 Beijing Olympics</string>
+    <string name="water_cube_hours">Hours:10:00am-9:30pm</string>
+
+    <string name="wangfujing_street">Wangfujing Street</string>
+    <string name="wangfujing_street_description">Filled with shops selling paintings and traditional Chinese arts and crafts, trendy boutiques</string>
+    <string name="wangfujing_street_hours">Hours:9:30am-9:00pm</string>
+
+    <string name="the_forbidden_city">The Forbidden City</string>
+    <string name="the_forbidden_city_description">Was home to 24 emperors of the Ming (1368–1644) and Qing (1644–1911) Dynasties</string>
+    <string name="the_forbidden_city_hours">Hours:8:30am-5:00pm</string>
+
+    <string name="summer_palace">Summer Palace</string>
+    <string name="summer_palace_description">A well-preserved imperial garden</string>
+    <string name="summer_palace_hours">Hours:8:30am-5:00pm</string>
+
+    <string name="lugou_bridge">Lugou Bridge</string>
+    <string name="lugou_bridge_description">China\'s entry into World War II began with shots on the Lugou Bridge on July 7, 1937</string>
+    <string name="lugou_bridge_hours">Hours:24 Hours</string>
+
+    <string name="temple_of_heaven">Temple of Heaven</string>
+    <string name="temple_of_heaven_description">Once a year, the emperors came here to worship Heaven and to solemnly pray for a good harvest</string>
+    <string name="temple_of_heaven_hours">Hours:8:00am-6:00pm</string>
+
+    <string name="ditan_temple_fair">Ditan Temple Fair</string>
+    <string name="ditan_temple_description">People go to Beijing\'s traditional temple fairs during the Spring Festival (Chinese New Year) for ritual praying, entertainment</string>
+    <string name="ditan_temple_hours">Date:9am–4pm, Jan 28–Feb 1, 2017</string>
+
+    <string name="art_798">798 Art Festival</string>
+    <string name="art_798_description">Assembling many cultural elements such as galleries, design studios</string>
+    <string name="art_798_hours">Date:At the end of every September</string>
+
+    <string name="mid_autumn_festival">Mid-Autumn Festival</string>
+    <string name="mid_autumn_festival_description">Worshiping the moon and eating mooncakes</string>
+    <string name="mid_autumn_hours">Date:Sep,15</string>
+
+    <string name="great_wall_marathon">Great Wall Marathon</string>
+    <string name="great_wall_marathon_description">Racing on a Great Wall section and running through excellent countryside and farm scenery</string>
+    <string name="great_wall_marathon_hours">Date:The 3rd Saturday of May</string>
+
+    <string name="quanjude_roast_duck">Quanjude Roast Duck</string>
+    <string name="quanjude_roast_duck_description">One of the oldest restaurants in the capital,they serve great Peking duck</string>
+    <string name="quanjude_roast_duck_hours">Hour:11:00am–1:30pm and 4:30pm–8:00pm</string>
+
+    <string name="jin_ding_xuan">Jin Ding Xuan</string>
+    <string name="jin_ding_xuan_description">Serves mainly Sichuan, Shandong, Cantonese and Huai food</string>
+    <string name="jin_ding_xuan_hours">Hour:24 Hours</string>
+
+    <string name="da_zhai_men">Da Zhai Men</string>
+    <string name="da_zhai_men_description">More than 300 years history, it used to be the coutyard of royal member of Qing Dynasty</string>
+    <string name="da_zhai_men_hours">Hour:10:30am-22:00pm</string>
+
+    <string name="longfusi_food_street">Longfusi Food Street</string>
+    <string name="longfusi_food_street_description">The popular snacks on this street have been very famous throughout history</string>
+    <string name="longfusi_food_street_hours">Hour:From noon to midnight</string>
+
+
+</resources>
+
